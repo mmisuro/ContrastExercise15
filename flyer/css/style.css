@@ -1,0 +1,39 @@
+.column {
+  float: left;
+  border: 2px solid white;
+  width: 45%;
+  padding: 5px;
+  margin: 5px;
+}
+#columnwrapper{
+  width: 1000px;
+  margin:auto;
+}
+h1{
+  color: navy;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bolder;
+}
+h2{
+  text-align: center;
+  font-size: 35px;
+  font-style: italic;
+}
+h3{
+  color:navy;
+  font-size: 26px;
+  text-decoration: underline;
+}
+h4{
+  color:navy;
+  font-size: 20px;
+  font-style: italic;
+}
+html{
+  background-color: lightpink;
+}
+header{
+  border: 2px solid white;
+  background color:
+}
